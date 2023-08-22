@@ -37,6 +37,8 @@ $ check
 | :-------- | :------------------------- |
 | `-h` | Displays the help menu |
 | `-w` `WEBSITE` | To ping the specified website |
+| `-i` | To get some information about the program |
+| `-v` | To get the current version |
 
 
 ## Building
